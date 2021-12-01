@@ -1,0 +1,19 @@
+{
+  "name": "taquilla-api",
+  "version": "1.0.0",
+  "description": "Ejemplo de API de taquilla",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleti/taquilla-api.git"
+  },
+  "author": "Equipo 3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caleti/taquilla-api/issues"
+  },
+  "homepage": "https://github.com/caleti/taquilla-api#readme"
+}
